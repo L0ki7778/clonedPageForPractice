@@ -1,0 +1,141 @@
+[
+    {
+        "titleImg": "style/img/title.jpg"
+    },
+    {
+        "variant": {
+            "food": "Pizza",
+            "name": [
+                "Pizza Salami",
+                "Pizza Margherita",
+                "Pizza Bacon"
+            ],
+            "price": [
+                8.99,
+                7.99,
+                9.99
+            ],
+            "img": [
+                "style/img/pizza-salami.jpg",
+                "style/img/pizza-magarita.jpg",
+                "style/img/bacon.jpg"
+            ],
+            "beschreibung": [
+                "Die Königin aller Pizzen! Saftige Salami auf knusprigem Teig – weil nur die Beste auf deinem Teller landet.",
+                "Wenn Einfachheit zur Perfektion wird. Tomaten, Mozzarella, Basilikum – mehr braucht es nicht für einen kulinarischen Liebesbrief aus Neapel.",
+                "Wer sagt, dass Pizza nicht frühstückstauglich ist? Knuspriger Bacon auf Pizza – das ist der wahre Wake-up-Call für deinen Gaumen."
+            ],
+            "description": [
+                "The queen of all pizzas! Juicy salami on crispy dough – because only the best lands on your plate.",
+                "When simplicity becomes perfection. Tomatoes, mozzarella, basil – that's all it takes for a culinary love letter from Naples.",
+                "Who says pizza isn't breakfast-worthy? Crispy bacon on pizza – that's the true wake-up call for your taste buds."
+            ],
+            "medium": [
+                10.99,
+                9.99,
+                11.99
+            ],
+            "jumbo": [
+                13.99,
+                12.99,
+                14.99
+            ],
+            "titleImg": "style/img/pizza-title.jpg"
+        }
+    },
+    {
+        "variant": {
+            "food": "Pasta",
+            "name": [
+                "Pesto-Farfalle",
+                "Lasagne",
+                "Pasta-Meeresfrüchte"
+            ],
+            "price": [
+                14.99,
+                12.99,
+                13.99
+            ],
+            "img": [
+                "style/img/pasta-pesto-farfalle.jpg",
+                "style/img/lasagne.jpg",
+                "style/img/frutti.jpg"
+            ],
+            "description": [
+                "The butterfly noodles fly straight into your taste buds, accompanied by an intense pesto tornado. Pasta enjoyment at its finest.",
+                "Layer by layer, a poem. Lasagna, the construction project of Italian cuisine. Here, it's layered, layered, and layered again until the delight lands on your fork.",
+                "The oceans on your plate. Shrimp, mussels, and more frolic in a tasty pasta world. A sea frenzy for your taste buds."
+            ],
+            "beschreibung": [
+                "Die Schmetterlingsnudeln fliegen direkt in deine Geschmacksknospen, begleitet von einem intensiven Pesto-Tornado. Pasta-Genuss at its finest.",
+                "Schicht für Schicht ein Gedicht. Lasagne, das Bauprojekt der italienischen Küche. Hier wird geschichtet, geschichtet und nochmal geschichtet, bis der Genuss auf deiner Gabel landet.",
+                "Die Ozeane in deiner Schüssel. Hier tummeln sich Garnelen, Muscheln und Co. in einer wohlschmeckenden Nudelwelt. Ein Meeresrausch für deine Geschmacksknospen."
+            ],
+            "titleImg": "style/img/noodle-title.jpg"
+        }
+    },
+    {
+        "variant": {
+            "food": "Burger",
+            "name": [
+                "Cheese Burger",
+                "Tower of Sin",
+                "American Style Burger"
+            ],
+            "price": [
+                8.99,
+                14.99,
+                10.99
+            ],
+            "img": [
+                "style/img/cheese.jpg",
+                "style/img/tower.jpg",
+                "style/img/bacon-burger.jpg"
+            ],
+            "description": [
+                "A classic, but never boring. Juicy meat, melted cheese, and the perfect amount of sauce – because you can never go wrong with a cheeseburger.",
+                "When simplicity is the virtue of sin. Five burger patties, stacked with an avalanche of melted cheese.",
+                "When the cheeseburger gets a U.S. visa. Here, it's all about showing off: bacon, BBQ sauce, maybe even an egg – that's the American way on your plate."
+            ],
+            "beschreibung": [
+                "Klassiker, aber keinesfalls langweilig. Saftiges Fleisch, geschmolzener Käse und die perfekte Menge an Soße – weil man mit einem Cheeseburger nie danebenliegt.",
+                "Wenn Einfachheit die Tugend der Sünde ist. Fünf Burger-Patties, geschichtet mit einer Lawine aus geschmolzenem Käse.",
+                "Wenn der Cheeseburger ein USA-Visum bekommt. Hier wird aufgetrumpft: Bacon, BBQ-Soße, vielleicht sogar ein Ei – das ist der American Way auf deinem Teller."
+            ],
+            "titleImg": "style/img/burger-title.jpg"
+        }
+    },
+    {
+        "variant": {
+            "food": "Salat",
+            "name": [
+                "Obst-Salat",
+                "'Das Gute Gewissen'",
+                "Eiersalat"
+            ],
+            "price": [
+                6.99,
+                4.99,
+                7.99
+            ],
+            "img": [
+                "style/img/fruit.jpg",
+                "style/img/0.jpg",
+                "style/img/egg.jpg"
+            ],
+            "description": [
+                "The detox party on your plate. Fresh fruit, colorful and healthy. A feast for your vitamins without sacrificing taste.",
+                "A name that's good not only on the tongue but also on the conscience. Enjoy without remorse!",
+                "Fresh, crisp leafy greens, a variety of colorful vegetables, and as a crowning touch: delicate slices of eggs."
+            ],
+            "beschreibung": [
+                "Die Detox-Party auf deinem Teller. Frisches Obst, bunt und gesund. Ein Fest für deine Vitamine, ohne dabei auf den Geschmack zu verzichten.",
+                "Ein Name, der nicht nur auf der Zunge, sondern auch im Gewissen gut ist. Guten Appetit, ohne Reue!",
+                "Frische, knackige Blattsalate, bunte Gemüsevielfalt und als Krönung: zarte Eierscheiben."
+            ],
+            "titleImg": "style/img/salad-title.jpg"
+        }
+    }
+    
+]
+
